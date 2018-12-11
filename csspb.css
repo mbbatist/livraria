@@ -1,0 +1,73 @@
+*{margin:0px; padding:0px; border:0px;}
+
+body{
+    background-attachment: fixed;
+}
+#site{
+    width: 800px;
+    background-color: #963939;
+    margin: 0 auto;
+    padding: 5px;
+}
+#topo{
+    background-color: #FF6F60;
+    height: 250px;
+    margin-bottom: 5px;
+}
+#titulo{
+    font-family: "Comic Sans MC",cursive;
+    font-size: 100px;
+    
+}
+#capas{
+    background-color: #FF6F60;
+    height: 110px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+#menu{
+    background-color: #FF6F60;
+    height: 680px;
+    width: 180px;
+    float: left;
+    padding: 10px;
+    text-align:center;
+}
+.itens_menu{
+    text-decoration: none;  /*tirar sublinhado */
+    color:  #963939;
+    font-size:20px;
+}
+
+#conteudo{
+background-color: #FF6F60;
+height: 700px;
+width: 595px;
+float: right;
+margin-bottom:5px;
+}
+.vendido{
+ font-family: "Comic Sans MC",cursive;
+ color:  #963939;
+ font-size:16px;
+}
+
+img.flutuar{
+    float: right;
+}
+
+#rodape{
+    background-color: #FF6F60;
+    height: 80px;
+    clear:both;
+    padding: 10px;
+    text-align: center;
+   }
+.editoras{
+    text-decoration: none;  /*tirar sublinhado */
+    color:  #963939;
+    font-size:20px;
+    }
+a:hover{
+      color:white;
+    }
